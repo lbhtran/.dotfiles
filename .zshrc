@@ -126,11 +126,6 @@ export CXX=clang++
 
 [[ -e ~/.profile ]] && emulate sh -c 'source ~/.profile'
 
-
-export DBT_USERNAME=alex_tran
-export DBT_PASSWORD=Pomelo2022!
-export DBT_SCHEMA=alex
-
 # Personal Nvim setup - lvim (aka alex-nvim)
 ALEX_NVIM=~/.config/alex-nvim
 export ALEX_NVIM
